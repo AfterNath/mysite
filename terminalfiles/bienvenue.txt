@@ -1,0 +1,10 @@
+<hr/>
+<b>Bienvenue !</b><br/>
+Je m'apelle Nathan, je suis passioné par le développement et l'administration de serveurs, fan de jeux vidéo et de plein d'autres choses !<br/>
+Pour en savoir plus sur moi, regarde 'a_propos.txt'.<br/>
+<hr/>
+ce site est basé sur un terminal Ubuntu.<br/>
+En plus, si tu es familier avec ce type de terminal, tu es invité à utiliser les commandes, sinon tu peux simplement cliquer sur ses liens.<br/>
+Pour la liste des commandes, tape '<a href="#" class="helpcmd" onclick="clickCmd('help')">help</a>'<br/>
+<br/>
+ 
